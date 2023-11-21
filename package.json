@@ -1,0 +1,21 @@
+{
+  "name": "hkmu-employee",
+  "version": "1.0.0",
+  "description": "Yeung Chun Hei,Tai Tsz Hin,Tin Chi Yu, Kwok Yuk Ming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "body-parser": "^1.20.2",
+    "cookie-session": "^2.0.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
